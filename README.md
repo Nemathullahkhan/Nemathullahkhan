@@ -4,7 +4,7 @@
 **Nemathullahkhan/Nemathullahkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Glad to see you here! I'm **Muhammed Nemathullah Khan**, a **software engineer** who doesn't just build web apps—I love experimenting and pushing boundaries with every project. As a **full-stack developer** in the making, I learn best by doing, turning ideas into real, **scalable software**. Every project I take on helps me refine my skills, improve efficiency, and build things that matter to users.
+Glad to see you here! I'm **Muhammed Nemathullah Khan**, a **software engineer** who doesn't just <span style="background-color: #FFFF00">build web apps—I love experimenting and pushing boundaries with every project</span>. As a **full-stack developer** in the making, <span style="background-color: #FFFF00">I learn best by doing, turning ideas into real, scalable software</span>. Every project I take on helps me refine my skills, improve efficiency, and build things that matter to users.
 
 # 💫 About Me:
 - **Full-stack developer** specialized in the **JavaScript ecosystem** from React to Next.js, from vanilla JS to Node.js
