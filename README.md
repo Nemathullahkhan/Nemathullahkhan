@@ -53,10 +53,6 @@ Glad to see you here! I'm **Muhammed Nemathullah Khan**, a **software engineer**
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemathullahkhan&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemathullahkhan&theme=merko&hide_border=false" />
-      </td>
-    </tr>
+
   </table>
 </div>
