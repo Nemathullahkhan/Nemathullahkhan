@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello!</h1>
 
-Glad to see you here! I'm **Muhammed Nemathullah Khan**, a **software engineer** who doesn't just <mark>build web apps—I love experimenting and pushing boundaries with every project</mark>. As a **full-stack developer** in the making, <mark>I learn best by doing, turning ideas into real, scalable software</mark>. Every project I take on helps me refine my skills, improve efficiency, and build things that matter to users.
+Glad to see you here! I'm **Muhammed Nemathullah Khan**, a **software engineer** who doesn't just <mark>build web apps—I love experimenting and pushing boundaries with every project</mark>. As a **full-stack developer**, <mark>I learn best by doing, turning ideas into real, scalable software</mark>. Every project I take on helps me refine my skills, improve efficiency, and build things that matter to users.
 
 ---
 
